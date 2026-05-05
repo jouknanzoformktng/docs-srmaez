@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-21c0db.roseandcrownslaithwaite.co.uk/sitemap.xml
